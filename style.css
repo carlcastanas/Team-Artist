@@ -3,12 +3,13 @@
 h1{
   font-family: 'Open Sans', sans-serif;
   font-weight: 200;
-  
+
   font-size: 3em;
   color: #fff;
   text-align: center;
 }
 .snip1344 {
+  border-radius: 10px;
   font-family: 'Open Sans', Arial, sans-serif;
   position: relative;
   overflow: hidden;
@@ -22,12 +23,14 @@ h1{
   background-color: #141414;
 }
 .snip1344 * {
+
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .snip1344 .background {
+  border-radius: 10px;
   width: 100%;
   vertical-align: top;
   opacity: 0.2;
